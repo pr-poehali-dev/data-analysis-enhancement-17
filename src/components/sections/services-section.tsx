@@ -23,23 +23,23 @@ export function ServicesSection() {
         <div className="grid gap-8 md:grid-cols-2 md:gap-x-16 md:gap-y-12 lg:gap-x-24">
           {[
             {
-              title: "Веб-разработка",
-              description: "Создание современных веб-приложений любой сложности",
+              title: "Брендинг",
+              description: "Айдентика, логотип и фирменный стиль, которые запоминаются",
               direction: "top",
             },
             {
               title: "UI/UX Дизайн",
-              description: "Проектирование удобных и красивых интерфейсов",
+              description: "Проектируем интерфейсы, которые приятно использовать",
               direction: "right",
             },
             {
-              title: "Мобильные приложения",
-              description: "Кроссплатформенная разработка для iOS и Android",
+              title: "Веб-разработка",
+              description: "Сайты и веб-приложения любой сложности под ключ",
               direction: "left",
             },
             {
-              title: "Консалтинг",
-              description: "Техническая экспертиза и стратегическое планирование",
+              title: "Маркетинг",
+              description: "Запуск рекламы и продвижение, которое приводит клиентов",
               direction: "bottom",
             },
           ].map((service, i) => (

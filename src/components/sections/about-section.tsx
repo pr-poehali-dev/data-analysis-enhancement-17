@@ -34,10 +34,10 @@ export function AboutSection({ scrollToSection }: { scrollToSection?: (index: nu
               style={{ transitionDelay: "200ms" }}
             >
               <p className="max-w-md text-sm leading-relaxed text-foreground/90 md:text-lg">
-                Мы команда дизайнеров, разработчиков и технологов, которые создают исключительные цифровые продукты.
+                Мы digital-агентство дизайнеров, стратегов и разработчиков, которые превращают идеи бренда в результат.
               </p>
               <p className="max-w-md text-sm leading-relaxed text-foreground/90 md:text-lg">
-                Каждый проект — это возможность исследовать новые решения и раздвигать границы возможного.
+                Берём проект под ключ — от исследования и концепции до запуска и роста продаж.
               </p>
             </div>
           </div>
